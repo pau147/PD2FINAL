@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Questrial&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat";
+  background-color: #f3f3f3;
+}
+
+header {                  
+  background-color: white;
+  height:100px;
+  padding: 16px 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);         
+}
+
+nav {
+  width: 671px;
+  background-color: white;
+  float:right;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+ul li {
+  display:inline-block;
+  list-style: none;
+  padding-left: px;
+  font-weight: bold;
+}
+
+ul li a {
+text-decoration: none;
+color: black;
+padding-left: 30px;
+}
+
+nav ul a:hover {
+  color: #1c78abff;
+  transition: 0.2s;
+}
+
+.logo {
+  width: 150px;             
+  height: 60px;                 
+  padding-top: 5px;         
+  padding-left: 5px; 
+  float:left;         
+}
+
+
+.descargala {
+  padding-left: 400px;
+  padding-top: 15px;
+  width: 1500px;
+}
+
+.sobrelaapp{
+  padding-left: 400px;
+  padding-top: 15px;
+  width: 1500px;
+}
+
+.faqsabierto {
+  padding-left: 400px;
+  padding-top: 15px;
+  width: 1500px;
+  padding-bottom: 50px;
+}
+
+.rectangulo {
+  width: 1905px;
+  height: 70px;
+  background-color: #2e3192ff;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 780px;
+  padding-top: 15px;
+}
+
+.rectanguloguiavideo{
+  width: 1920px;
+  height: 70px;
+  background-color: #2e3192ff;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 780px;
+  padding-top: 15px;
+}
+
+.rectanguloo {
+  width: 1905px;
+  height: 70px;
+  background-color: #2e3192ff;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 859px;
+  padding-top: 15px;
+}
+
+.tipopaleta{
+  padding-left: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 30px;
+}
+
+.marco{
+  width: 780px;
+  height: 546px;
+  background-color: #1c78abff;
+  border-radius: 15px;
+  padding:10px;
+  text-align: center; 
+  margin-top: 79px;
+  margin-left: 550px;
+  
+}
+
+.pdficono {
+  padding-left: 745px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  height: 621px;
+}
+
+
+footer {
+  background: #2e3192ff;
+  color:#fcf7e0; 
+  height: 100px;
+  margin-top: 50px;
+  width:1905px;
+}
+
+.logo-footer {
+  width: 150px;
+  padding-left: 50px;
+  display:inline-block;
+  padding-top: 15px;
+}
+
+.center-text-footer {
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  display:inline-block;
+  padding-left: 500px;
+}
+
+.right-text-footer {
+  display: inline-block;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  padding-left: 710px;
+}
+
